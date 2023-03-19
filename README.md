@@ -19,8 +19,5 @@ I used to MVC to do that app.In the time i will add MVVM to for examine myself.
 
 
 
-
-![Simulator Screen Shot - iOS 15 - 2023-03-13 at 21 40 35](https://user-images.githubusercontent.com/68336626/226193329-e44aa7f9-5dae-4ec8-9181-1a27476d4893.png)
-![Simulator Screen Shot - iOS 15 - 2023-03-13 at 21 40 40](https://user-images.githubusercontent.com/68336626/226193574-9ab24808-d7d7-4423-8e3a-30a7cb084c47.png)
-![Simulator Screen Shot - iOS 15 - 2023-03-13 at 21 40 52](https://user-images.githubusercontent.com/68336626/226193605-ea55896f-bd1d-4f67-93b4-67e53da8471e.png)
-![Simulator Screen Shot - iOS 15 - 2023-03-13 at 21 40 58](https://user-images.githubusercontent.com/68336626/226193665-57261189-9748-4bd7-93d6-077e20516f2e.png)
+![Simulator_Screen_Shot_-_iOS_15_-_2023-03-13_at_21 40 35_51](https://user-images.githubusercontent.com/68336626/226195272-eeed9398-641b-47d8-9ba8-e3686a0ba10a.png)
+![Simulator_Screen_Shot_-_iOS_15_-_2023-03-13_at_21 40 40_51](https://user-images.githubusercontent.com/68336626/226195276-c1cbdb25-7818-4157-89b9-6f21be84d89d.png)
